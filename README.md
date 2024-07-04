@@ -43,7 +43,7 @@ conda create -n udemy-tensorflow-bootcamp
 conda activate udemy-tensorflow-bootcamp
 `
 
-#### 5. Activate the environtment
+#### 5. Installing main packages
 
 `
 conda install python tensorflow tensorflow-gpu cudatoolkit cudnn scikit-learn pandas scipy matplotlib seaborn jupyter numpy==1.23.4
