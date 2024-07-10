@@ -18,6 +18,14 @@ jupyter notebook --notebook-dir="\<Path to desired working folder\>"
 
 jupyter lab --notebook-dir="\<Path to desired working folder\>"
 
+### 3. Runing on WSL2
+
+Since this conda environment runs on Ubuntu in WSL2 the above commands could be added as alias in .bashrc file. The format is as follows:
+
+`
+alias [name]=' [command 1]; [command 2]; [command 3]; .....  [command n]'
+`
+
 ## Some notes on installation
 
 #### 1. Install WSL2 according official instructions from Microsoft:
