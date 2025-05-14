@@ -2,3 +2,4 @@ desktop.ini
 command.txt
 **/*.ipynb_checkpoints/
 Section-04/fashion_mnist_dataset
+Section-05/pizza_steak
